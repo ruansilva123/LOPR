@@ -1,7 +1,7 @@
 Algoritmo "Questão11"
 
 Var
-   //x = valor total compra ; y = parcelas; z = valor cada parcela
+//x = valor total compra ; y = parcelas; z = valor cada parcela
    x, y, z: real
 Inicio
       escreval("Informe o valor da compra.")
