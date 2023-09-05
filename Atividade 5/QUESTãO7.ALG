@@ -16,7 +16,7 @@ Inicio
       leia(prestacao)
       salarioDisponivel <- salario * limiteSalario
       resultadoPrestacao <- emprestimo / prestacao
-      
+
       SE  salarioDisponivel > resultadoPrestacao ENTAO
           escreva("O saldo pode ser concedido.")
       SENAO
