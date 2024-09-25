@@ -1,13 +1,13 @@
-Algoritmo "Questão1"
+Algoritmo "Questï¿½o1"
 Var
-   numero: real
+   numero: realaaaaaaaa
 Inicio
-      escreval("Escolha um número.")
+      escreval("Escolha um nï¿½mero.")
       leia(numero)
       
       SE numero >= 0 ENTAO
-         escreva("O número selecionado é positivo.")
+         escreva("O nï¿½mero selecionado ï¿½ positivo.")
       SENAO
-           escreva("O número selecionado é negativo.")
+           escreva("O nï¿½mero selecionado ï¿½ negativo.")
       FIMSE
 Fimalgoritmo
