@@ -1,6 +1,6 @@
 Algoritmo "Quest�o1"
 Var
-   numero: realaaaaaaaa
+   numero: real
 Inicio
       escreval("Escolha um n�mero.")
       leia(numero)
